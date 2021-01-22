@@ -7,7 +7,7 @@ var data = {
                 lng: -105.22533
             },
             "name": "Puerto Vallarta",
-            "weatherType": "sunny"
+            "weatherType": "cloudy"
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@ var data = {
                 lng: -103.26684
             },
             "name": "Colotlán",
-            "weatherType": "sunny"
+            "weatherType": "cloudy"
         },
         {
             "id": 4,
@@ -52,7 +52,7 @@ var data = {
                 lng: -104.36675
             },
             "name": "Autlán de Navarro",
-            "weatherType": "cloudySun"
+            "weatherType": "cloudy"
         },
         {
             "id": 7,
