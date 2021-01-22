@@ -7,7 +7,7 @@ var data = {
                 lng: -105.22533
             },
             "name": "Puerto Vallarta",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@ var data = {
                 lng: -102.76523
             },
             "name": "Ocotlán",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@ var data = {
                 lng: -103.26684
             },
             "name": "Colotlán",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@ var data = {
                 lng: -103.38414
             },
             "name": "AMG",
-            "weatherType": "cloudySun"
+            "weatherType": "sunny"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@ var data = {
                 lng: -103.46851
             },
             "name": "Ciudad Guzmán",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@ var data = {
                 lng: -104.36675
             },
             "name": "Autlán de Navarro",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@ var data = {
                 lng: -101.9291
             },
             "name": "Lagos de Moreno",
-            "weatherType": "cloudy"
+            "weatherType": "sunny"
         }
     ]
 }
